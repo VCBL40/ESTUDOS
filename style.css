@@ -15,7 +15,7 @@ A tag root vc pode padronizar a css que vc escolheu, podendo nomeá-las do jeito
 header{
     font-family: 'impact';
     background-color: rgb(82, 122, 3);
-    margin: 10px ;
+    margin: 10px 10px 5px 5px ;
     padding: 10px ;
     border-radius: 10px;
     background-image: linear-gradient(to bottom, #89e9b4, #9bdfbd, #c5ebd6);    
@@ -23,7 +23,7 @@ header{
     color:  rgb(87, 84, 84);
     text-align: center;
     max-width: 1600px;
-    min-width: 450px;
+    min-width: 500px;
     
 }
 nav > a 
@@ -31,7 +31,7 @@ nav > a
     font-weight: bolder;
     text-decoration: none;
     padding: 10px;
-    margin: 5px;
+    margin: 10px 10px 5px 5px ;
     text-shadow: 2px 2px 0px black;
     transition-duration: 0.4s;
     text-align: justify; 
@@ -92,21 +92,21 @@ h3{
 main {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(247, 248, 246);
-    margin: 10px ;
+    margin: 10px 10px 5px 5px ;
     padding: 10px ;
     border-radius: 10px;
     font-size: 18px; 
     color:  rgb(87, 84, 84);
     text-align: center;
     max-width: 1600px;
-    min-width: 450px;
+    min-width: 500px;
     
 }
 body{
     background-color: #09B377;
     max-width: 1600px;
     min-width: 450px;
-    margin: 10px;
+    margin: 10px 10px 5px 5px ;
     font-family: Arial, Helvetica, sans-serif;
 }
 article{
@@ -185,11 +185,11 @@ aside{
     position: relative;
     text-align: justify;
     padding: 10px;
-    margin: 10px;
+    margin: 10px 10px 5px 5px ;
     border: 50px;
     background-image: linear-gradient(to bottom, #5bd190, #f1f7f4);
     max-width: 1600px;
-    min-width: 450px;
+    min-width: 500px;
     text-indent: 30px;
 }  
 [id="bizarra"]
@@ -208,10 +208,9 @@ footer{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 0px black;
-    min-width: 450px;
+    min-width: 500px;
     max-width: 1500px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: 10px 10px 5px 5px ;
 }
 [id="seilá"]
 {
