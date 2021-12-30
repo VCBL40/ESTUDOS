@@ -105,7 +105,7 @@ main {
 body{
     background-color: #09B377;
     max-width: 1600px;
-    min-width: 530px;
+    min-width: 400px;
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
