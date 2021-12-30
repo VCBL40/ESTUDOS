@@ -205,7 +205,7 @@ footer{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 0px black;
-    width: 100%;
+    min-width: 500px;
 }
 [id="seilá"]
 {
